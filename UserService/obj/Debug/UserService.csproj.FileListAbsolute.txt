@@ -1,0 +1,10 @@
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\UserService.exe.config
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\UserService.exe
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\UserService.pdb
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\Ninject.dll
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\SoftCorp.dll
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\SoftCorp.pdb
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\bin\Debug\Ninject.xml
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\obj\Debug\UserService.exe
+c:\Users\Toma-PC\documents\visual studio 2013\Projects\SoftCorp\UserService\obj\Debug\UserService.pdb

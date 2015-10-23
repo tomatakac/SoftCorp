@@ -1,0 +1,19 @@
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\bin\Debug\SoftCorp.dll
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\bin\Debug\SoftCorp.pdb
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\obj\Debug\SoftCorp.dll
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\obj\Debug\SoftCorp.pdb
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\bin\Debug\nunit.framework.dll
+c:\users\toma-pc\documents\visual studio 2013\Projects\SoftCorp\SoftCorp\bin\Debug\nunit.framework.xml
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\bin\Debug\SoftCorp.dll
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\bin\Debug\SoftCorp.pdb
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\bin\Debug\nunit.framework.dll
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\bin\Debug\nunit.framework.xml
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.csprojResolveAssemblyReference.cache
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.dll
+C:\Users\Toma-PC\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.pdb
+C:\Users\toma\Documents\softcorp\SoftCorp\bin\Debug\SoftCorp.dll
+C:\Users\toma\Documents\softcorp\SoftCorp\bin\Debug\SoftCorp.pdb
+C:\Users\toma\Documents\softcorp\SoftCorp\bin\Debug\nunit.framework.dll
+C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.dll
+C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.pdb
+C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.csprojResolveAssemblyReference.cache
