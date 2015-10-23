@@ -17,3 +17,4 @@ C:\Users\toma\Documents\softcorp\SoftCorp\bin\Debug\nunit.framework.dll
 C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.dll
 C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.pdb
 C:\Users\toma\Documents\softcorp\SoftCorp\obj\Debug\SoftCorp.csprojResolveAssemblyReference.cache
+C:\Users\toma\Documents\softcorpGit\SoftCorp\obj\Debug\SoftCorp.csprojResolveAssemblyReference.cache
